@@ -20,3 +20,9 @@ From simple research seems these kind of regex is effective to block:
 ``(?i)(energy)``
 
 Both Energy and energy, but also variation of it, like enErgy.
+
+# builds-size
+
+Build based on kinng sources weight around 16 MB
+
+Another build refactored to remove rtl stuff weight around 32 MB, and it is about this build that I want see until which point can be upgradable.
