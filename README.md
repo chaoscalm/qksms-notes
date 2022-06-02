@@ -13,8 +13,10 @@ https://regex101.com/ seems a very good site to test regex rules.
 
 A sms used to send us advertising will contain specific word like energy or a variation of it like Energy, either inside the body of sms or as sender.
 
-# regex-ruls
+# regex-rules
 
 From simple research seems these kind of regex is effective to block:
 
 ``(?i)(energy)``
+
+Both Energy and energy, but also variation of it, like enErgy.
