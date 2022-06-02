@@ -5,7 +5,7 @@ Notes about qksms tests
 
 Builds can support regex, thanks to a commit that is merged.
 
-Anyway that doesn't explain us a lot about how to block a sender by name, or doesn't offer an option to use case-sensitive or insesitive or allow body inspection like neko-sms.
+Anyway that doesn't explain us a lot about how to block a sender by name, or doesn't offer an option to use case-sensitive or insensitive or allow body inspection like neko-sms.
 
 https://regex101.com/ seems a very good site to test regex rules.
 
